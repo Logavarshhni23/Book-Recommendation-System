@@ -35,6 +35,13 @@ FEATURES
    * Most popular genres
    * Personalized book suggestions
 
+OOP CONCEPTS USED
+
+Encapsulation – Used in classes with private variables and getters/setters.
+Abstraction – Database logic kept in DAO classes.
+Inheritance – Reusing common code in multiple classes.
+Polymorphism – Same method used in different ways (like search).
+
 TECH STACK
 
 * Language: Java (OOP Concepts)
